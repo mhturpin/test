@@ -1,3 +1,4 @@
 A file with text
 Some text updates
-Something else
+Something
+new line
